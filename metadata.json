@@ -1,0 +1,6 @@
+
+{
+  "name": "Gemini 3D Camera Studio (Offline UI Capable)",
+  "description": "A high-end 3D camera perspective editor. Supports PWA installation for permanent local access. AI generation requires internet.",
+  "requestFramePermissions": []
+}
